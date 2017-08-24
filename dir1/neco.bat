@@ -1,0 +1,1 @@
+REM toto je jen na zkousku
